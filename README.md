@@ -38,3 +38,4 @@ With missing values resolved, our data is now ready. It's time to save the clean
 
 ### Data Visualization
 
+![Image](https://github.com/user-attachments/assets/7bb6d8fb-0fd1-42a6-996a-bd0ea4f066cb)
