@@ -36,4 +36,5 @@ With missing values resolved, our data is now ready. It's time to save the clean
 
 ![Image](https://github.com/user-attachments/assets/9b1f1c5d-4c69-4c88-be91-9d00dfcf817e)
 
+### Data Visualization
 
