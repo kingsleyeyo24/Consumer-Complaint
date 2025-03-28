@@ -25,3 +25,15 @@ I designed my `wrangle` function to handle missing data efficiently.
 - First, I checked if any columns had more than 50% missing values. Since none met this threshold, I proceeded to drop rows where the **'Company public response'** column was empty. I chose this approach because the number of missing values was small, making deletion a better option than introducing a new category like "Unknown."
 - Next, I addressed missing values in the **'Sub-issue'** column. I observed that NaNs only appeared when the **'Issue'** was **"Fraud or scam."** To handle this, I filled the missing values in **'Sub-issue'** with **"Fraud or scam"** for those specific rows.
 - Finally, I handled missing values in the **'Sub-product'** column by grouping the data by **'Product'** and filling NaNs with the most frequently occurring value (**mode**) within each group. This ensured that missing **'Sub-product'** values were assigned the most relevant category based on their associated **'Product'** type.
+
+![Image](https://github.com/user-attachments/assets/b3f23db3-dbcd-428a-aeb9-361b0e502d07)
+
+- Cleaned Dataset
+  
+![Image](https://github.com/user-attachments/assets/60f2abe9-619a-4e48-90dd-693f63be2a32)
+
+With missing values resolved, our data is now ready. It's time to save the cleaned dataset.
+
+![Image](https://github.com/user-attachments/assets/9b1f1c5d-4c69-4c88-be91-9d00dfcf817e)
+
+
