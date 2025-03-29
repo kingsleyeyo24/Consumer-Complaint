@@ -60,4 +60,45 @@ With missing values resolved, our data is now ready. It's time to save the clean
 - Postal mail, fax, web referral, and email have negligible usage, possibly due to the convenience of digital methods over traditional forms.
 
 - Majority of Complaints Received a Timely Response 98.33% (58.12K complaints) were responded to on time. Most complaints were handled within the expected timeframe.
-- 
+- States with the fewest complaints: Wyoming (WY) - 21, North Dakota (ND) - 21, South Dakota (SD) - 34, Vermont (VT) - 52, and Montana (MT) - 66. These states generally have lower populations, which could explain the fewer complaints.
+- States with the most complaints: California (CA) - 13,258, Florida (FL) - 6,227, Texas (TX) - 4,509, New York (NY) - 4,300, Georgia (GA) - 2,822. The states with the highest complaints are also among the most populous, suggesting a correlation between population size and complaint volume.
+- Higher complaints in large states may indicate a mix of higher consumer activity and potential service issues. While lower complaints in smaller states could be due to fewer consumers or less engagement with the complaint process.
+
+### Recommendations
+
+1. **Improve Consumer Awareness & Engagement**  
+   - Conduct educational campaigns to inform consumers about their rights and how to report issues effectively.  
+   - Develop user-friendly online platforms that simplify complaint submission and tracking.  
+   - Strengthen financial literacy programs to help consumers better manage their accounts and avoid disputes.  
+
+2. **Enhance Service Quality & Dispute Resolution**  
+   - The institutions should invest in better customer service to address issues before they escalate into complaints.  
+   - Implement proactive monitoring systems to detect and correct errors in account management, billing, and credit reports.  
+   - Establish faster and more transparent dispute resolution mechanisms, particularly for credit card and checking account complaints.  
+
+3. **Address Specific Financial Product Issues**  
+   - **Checking/Savings Accounts**: Review account management processes to minimize unauthorized transactions and fee disputes.  
+   - **Credit Cards & Prepaid Cards**: Strengthen fraud detection and improve billing dispute resolution processes.  
+   - **Credit Reporting & Repair**: Enhance accuracy in credit reporting by collaborating with credit bureaus and financial institutions.  
+   - **Mortgage Issues**: Offer better support for refinancing and foreclosure prevention programs.  
+   - **Digital Payments & Money Transfers**: Improve transaction security and ensure quicker resolutions for failed or delayed transactions.  
+
+4. **Leverage Digital Channels for Faster Resolutions**  
+   - Given that most complaints are submitted online (72.33%), the institutions should optimize their digital complaint-handling platforms.  
+   - Develop AI-powered chatbots and self-service options to provide quick solutions for common issues.  
+   - Improve transparency by providing real-time updates on complaint status.  
+
+5. **Focus on High-Complaint States for Consumer Protection Measures**  
+   - Strengthen consumer protection regulations in states with the highest complaints (California, Florida, Texas, New York, Georgia).  
+   - Collaborate with state governments and financial institutions to address systemic service issues.  
+   - Conduct regional assessments to understand and resolve location-specific financial service challenges.  
+
+6. **Encourage Reporting in Low-Complaint States**  
+   - Lower complaint volumes in smaller states may indicate underreporting rather than fewer issues.  
+   - Increase awareness and accessibility of complaint submission channels in these states to ensure consumers are adequately represented.  
+
+7. **Monitor Post-2022 Decline in Complaints**  
+   - Investigate whether the drop in complaints is due to genuine service improvements or a decline in reporting.  
+   - Encourage ongoing feedback mechanisms to track consumer sentiment and service quality.  
+   - Strengthen consumer trust by demonstrating responsiveness and action taken on complaints.  
+
